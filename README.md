@@ -1,6 +1,9 @@
 # Crowdfunding_ETL
 Project 2
 
+## Names
+* A. Shank
+* S. Halliday
 
 ## About
 This group project is to practice Extract, Transform, and Load (ETL) of data using Python, Panda, Python dictionary, Postgres, and pgAdmin. Pandas and Python were used to extract and transform raw data inputs from the contacts and crowdfunding excel files. PostgreSQL and pgAdmin were used to load the cleaned data from four csv files (campaign, contacts, category, and subcategory) into tables and conduct analysis via select statements.    
@@ -62,18 +65,23 @@ Several select statements were run to ensure each table reflected the correct da
 
 Via the query analysis, we were able to determine the following:
 * Overall there were 565 successful campaigns with 364 failed, 57 cancelled, and 14 ongoing.
+  
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/49f1619c-c6f8-4265-9d35-182013585079)
 
 * Theater obtained the highest pledge amount at 15,763,227 with the lowest pledge amount being in the journalism category at 36,176.
+  
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/3d792539-0585-49a4-bc96-6b79a6d91904)
 
 * Theater campaigns also had the highest rate of overall success coupled with the most campaigns (187 successful, 132 failed, 23 cancelled, and 2 ongoing). A total of 344 overall campaigns conducted compared to just 4 four journalism.
+  
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/2eb4a5f7-3936-44de-b3d6-3d5cb6708f3e)
 
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/ed8289b8-8113-44b1-ac70-654b3f255fe3)
 
-* The highest contributer was Casey Flores pledging 199,110 USD. 
+* The highest contributer was Casey Flores pledging 199,110 USD.
+  
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/5a51937e-90e8-457b-bdda-8529c872c363)
 
 * Casey Flores pledged that value to film & video, documentaries.
+  
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/c92eeed1-8224-4d84-ab23-b0a052ea8b4b)
