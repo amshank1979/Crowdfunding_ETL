@@ -14,10 +14,9 @@ _Deliverable 1: Create the Category and Subcategory DataFrames._
 Using the crowdfunding.xlsx excel raw dataset, a category DataFrame was generated with columns "category_id" and "category" identified. The category_id" column reflects in sequential order (going sequentially from "cat1" to "cat9"). The category DataFrame was then exported to GitHub as the "category.csv" file. A similar process was used to create the subcategory DataFrame with columns "subcategory_id" and "subcategory". The "subcategory_id" column reflects in sequential order (going sequentially from "subcat1" to "subcat24"). The subcategory DataFrame was then exported to GitHub as the "subcategory.csv" file.
 The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb accessible via the Starter_Files folder. The category.csv and subcategory.csv files are housed in the Resources folder. 
 
-![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/428b6810-35b8-49b8-b912-c560980c4051)
+![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/9c7ba932-cd7c-4698-a0e7-2acff13d433b)
 
-![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/477d0090-e3ea-471a-a7f4-a9b6f379a8ef)
-
+![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/84d77fff-9851-40a7-8970-87a217cf0a3f)
 
 _Deliverable 2: Create the Campaign DataFrame._
 
