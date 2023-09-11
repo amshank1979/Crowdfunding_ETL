@@ -11,7 +11,7 @@ This group project is to practice Extract, Transform, and Load (ETL) of data usi
 ## Getting Started
 _Deliverable 1: Create the Category and Subcategory DataFrames._
 
-Using the crowdfunding.xlsx excel raw dataset, a category DataFrame was generated with columns "category_id" and "category" identified. The category_id" columns reflects in sequential order (going sequentially from "cat1" to "cat9"). The cateogry DataFrame was then exported to GitHUb as the "category.csv" file. A similiar process was used to create the subcategory DataFrame with columns "subcategory_id" and "subcategory". The "subcategory_id" columns reflects in sequential order (going sequentially from "subcat1" to "subcat24"). The subcategory DataFrame was then exported to GitHUb as the "subcategory.csv" file.
+Using the crowdfunding.xlsx excel raw dataset, a category DataFrame was generated with columns "category_id" and "category" identified. The category_id" column reflects in sequential order (going sequentially from "cat1" to "cat9"). The category DataFrame was then exported to GitHub as the "category.csv" file. A similar process was used to create the subcategory DataFrame with columns "subcategory_id" and "subcategory". The "subcategory_id" column reflects in sequential order (going sequentially from "subcat1" to "subcat24"). The subcategory DataFrame was then exported to GitHub as the "subcategory.csv" file.
 The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb accessible via the Starter_Files folder. The category.csv and subcategory.csv files are housed in the Resources folder. 
 
 ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/428b6810-35b8-49b8-b912-c560980c4051)
@@ -47,7 +47,7 @@ The data type for each column was then adjusted for data analysis purposes.
 
 _Deliverable 3: Create the Contacts DataFrame._
 
-Using the contacts.xlsx excel raw dataset coupled with the Python dictionary method (Option 1), a contacts DataFrame was generated. The DataFrame was then converted to a distionary and a new DataFrame established. The contact name was then split into a first and last name, and placed new columns first_name and last_name. The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb accessible via the Starter_Files folder. The contacts.csv file is housed in the Resources folder.
+Using the contacts.xlsx excel raw dataset coupled with the Python dictionary method (Option 1), a contacts DataFrame was generated. The DataFrame was then converted to a dictionary and a new DataFrame established. The contact name was then split into a first and last name, and placed new columns first_name and last_name. The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb accessible via the Starter_Files folder. The contacts.csv file is housed in the Resources folder.
 
 ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/cdf68a92-910d-4dc3-a36c-99b7788b1aeb)
 
@@ -78,7 +78,7 @@ Via the query analysis, we were able to determine the following:
 
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/ed8289b8-8113-44b1-ac70-654b3f255fe3)
 
-* The highest contributer was Casey Flores pledging 199,110 USD.
+* The highest contributor was Casey Flores pledging 199,110 USD.
   
  ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/5a51937e-90e8-457b-bdda-8529c872c363)
 
