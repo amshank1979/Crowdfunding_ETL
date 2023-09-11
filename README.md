@@ -47,7 +47,7 @@ The data type for each column was then adjusted for data analysis purposes.
 
 _Deliverable 3: Create the Contacts DataFrame._
 
-Using the contacts.xlsx excel raw dataset coupled with the Python dictionary method (Option 1), a contacts DataFrame was generated. The DataFrame was then converted to a dictionary and a new DataFrame established. The contact name was then split into a first and last name, and placed new columns first_name and last_name. The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb accessible via the Starter_Files folder. The contacts.csv file is housed in the Resources folder.
+Using the contacts.xlsx excel raw dataset coupled with the Python dictionary method (Option 1), a contacts DataFrame was generated. The DataFrame was then converted to a dictionary and a new DataFrame established. The contact name was then split into a first and last name, and placed new columns first_name and last_name. The code may be found via the Jupyter notebook: ETL_Mini_Project_Starter_Code_a.shank_s.halliday.ipynb and contacts dataframe.ipynb accessible via the Starter_Files folder. The contacts.csv file is housed in the Resources folder.
 
 ![image](https://github.com/amshank1979/Crowdfunding_ETL/assets/133922704/cdf68a92-910d-4dc3-a36c-99b7788b1aeb)
 
